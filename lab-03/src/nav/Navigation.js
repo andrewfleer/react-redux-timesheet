@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { Nav, Navbar, NavItem } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 
