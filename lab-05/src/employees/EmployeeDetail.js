@@ -21,7 +21,7 @@ export class EmployeeDetail extends React.Component {
   static defaultProps = {};
 
   state = {
-    eployee: null
+    employee: null
   };
 
   async componentDidMount() {
